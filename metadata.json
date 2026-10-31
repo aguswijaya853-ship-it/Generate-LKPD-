@@ -1,0 +1,6 @@
+{
+  "name": "LembarKarya Studio — Generator LKPD Kurikulum Merdeka",
+  "description": "Platform penyusun Lembar Kerja Peserta Didik (LKPD) bergambar berbasis Kurikulum Merdeka lengkap dengan Bank Soal semua Fase (A–F), pemilihan kelas dan materi otomatis maupun manual, serta unduh PDF siap cetak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
